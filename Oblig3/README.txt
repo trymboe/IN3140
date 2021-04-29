@@ -1,0 +1,3 @@
+This assignment was by far the most difficult to date in this course, especially task 2. Calculating these kinds of matrices  with only symbols are of course important, but challenging. It's more abstract, and almost impossible to compare answers with other students. Therefor I have zero clue if I have the right answers, but I am fairly confident that i have used the right methods, and I have an understanding of what I have done and the understanding
+
+A liked task 1. It was challenging, jet fun to calculate the lagrangian and euler-lagrangian
